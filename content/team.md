@@ -1,8 +1,7 @@
 +++
-title = 'Testing Post'
-date = "{{ .Date }}"
+date = "2025-01-22T21:10:05+05:30"
 draft = false
-tags = ['red','green']
+title = 'Team'
 +++
 
-Random Lab Content Just For Testing
+This is the random content for testing on Lab Kracr Website
